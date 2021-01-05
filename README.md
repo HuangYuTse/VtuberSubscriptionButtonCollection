@@ -34,10 +34,10 @@
 ## 關於整理好的資料
 
 * hololive  
-Generation_0~5 : hololive JP零期到五期生  
+Generation_0到5 : hololive JP零期到五期生  
 Hololive_Gamers : hololive JP遊戲組  
 Hololive_English : hololive EN  
-Hololive_Indonesia_Generation_1~2 : hololive IN一期到二期生
+Hololive_Indonesia_Generation_1到2 : hololive IN一期到二期生
   * 所有 .csv 檔包含以下欄位
     * Name : Vtuber英文名
     * Debut date : 出道日期
